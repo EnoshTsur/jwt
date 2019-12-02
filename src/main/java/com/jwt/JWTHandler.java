@@ -14,7 +14,7 @@ import io.jsonwebtoken.Claims;
 /*
     Our simple static class that demonstrates how to create and decode JWTs.
  */
-public class JWTDemo {
+public class JWTHandler {
 
     // The secret key. This should be in a property file NOT under source
     // control and not hard coded in real life. We're putting it here for
